@@ -313,5 +313,5 @@ https://telega.io/catalog_bots/szrosebot/card
 🔥Your broadcast will reach group also so minimum 50k users see your message.
 """)
 
-print("I'm Alive Now!")
+print("Alive Now!")
 app.run()
